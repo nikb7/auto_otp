@@ -167,10 +167,10 @@
       "name": "auto_otp",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.7"
+      "languageVersion": "2.16"
     }
   ],
-  "generated": "2024-12-19T06:07:42.849450Z",
+  "generated": "2024-12-19T06:10:41.808165Z",
   "generator": "pub",
   "generatorVersion": "3.7.0-255.0.dev",
   "flutterRoot": "file:///Users/nikhilbansal/Workspace/flutter",
