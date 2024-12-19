@@ -1,3 +1,6 @@
+## 1.0.3
+Lower Sdk constraints
+
 ## 1.0.2
 Fix pub files
 

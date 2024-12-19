@@ -1,7 +1,7 @@
 name: auto_otp
 description: "Flutter plugin for Android Sms Retriever Api, automatically read sms from Android device."
 repository: https://github.com/nikb7/auto_otp
-version: 1.0.2
+version: 1.0.3
 issue_tracker: https://github.com/nikb7/auto_otp/issues
 topics:
   - otp
